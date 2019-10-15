@@ -1,0 +1,1 @@
+import{S as s,i as t,s as n,t as e,c as a,n as o,f as r}from"./index-fecd9fc8.js";function c(s){var t;return{c(){t=e("\n\n\nsuoer"),document.title="About"},m(s,n){a(s,t,n)},p:o,i:o,o:o,d(s){s&&r(t)}}}export default class extends s{constructor(s){super(),t(this,s,null,c,n,[])}}
